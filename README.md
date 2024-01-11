@@ -55,7 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rumomo&theme=highcontrast&hide_border=true&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rumomo)](https://git.io/streak-stats)
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rumomo&theme=highcontrast&hide_border=true&locale=es&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
