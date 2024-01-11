@@ -16,8 +16,6 @@
 
 💬 You can ask whatever you want **better 4 eyes than 2.**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
